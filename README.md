@@ -1,5 +1,6 @@
 ## AuraPlayer: Mood based playlist generator
 
+
 ![Logo](https://github.com/dhruvp-8/aura-player/blob/master/screenshots/Logo.png "Logo")
 
 Creators:
@@ -19,6 +20,7 @@ Creators:
 
 
 ### Installing
+
 
 
 ## Modules
@@ -49,4 +51,4 @@ Creators:
 ## License
 
 
-## Acknowledgments
+
